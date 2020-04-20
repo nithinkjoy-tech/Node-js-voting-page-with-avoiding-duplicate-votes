@@ -1,0 +1,30 @@
+{
+  "name": "voting_poll",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "engines": {
+    "node": "12.16.1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chart.js": "^2.9.3",
+    "config": "^3.3.1",
+    "cookie-parser": "^1.4.5",
+    "ejs": "^3.0.2",
+    "express": "^4.17.1",
+    "express-ejs-layouts": "^2.5.0",
+    "icheck-bootstrap": "^3.0.1",
+    "jsdom": "^16.2.2",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.9.9",
+    "node-sass": "^4.13.1",
+    "path": "^0.12.7"
+  }
+}
